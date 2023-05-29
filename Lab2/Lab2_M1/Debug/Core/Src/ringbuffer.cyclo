@@ -1,0 +1,5 @@
+ringbuffer.c:4:10:RingBuffer_GetFreeSpace	3
+ringbuffer.c:13:10:RingBuffer_GetDataLength	1
+ringbuffer.c:17:6:RingBuffer_Init	1
+ringbuffer.c:22:10:RingBuffer_Read	3
+ringbuffer.c:33:9:RingBuffer_Write	4
